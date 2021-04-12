@@ -1,0 +1,1 @@
+A brief understanding about why to choose MARS algorithm over linear regression when your dataset have hinges.
